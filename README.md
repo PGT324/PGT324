@@ -39,7 +39,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGT324&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=PGT324&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=PGT324)
-
 <br>
 </div>
