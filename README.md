@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=Tailwindcss&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Nodedotjs-339933?style=flat&logo=Nodejs&logoColor=white" />
+	<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=Nodejs&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=Nestjs&logoColor=white" />
 	<br>
